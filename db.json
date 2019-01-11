@@ -2,4 +2,10 @@
   "name":"John", 
   "age":31, 
   "city":"New York"
+},
+{
+  "name":"sumit", 
+  "age":31, 
+  "city":"India"
 }
+
